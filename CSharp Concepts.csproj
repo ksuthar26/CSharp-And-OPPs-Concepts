@@ -6,4 +6,12 @@
     <RootNamespace>Opps_Concepts</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AssemblyOne\AssemblyOne.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Collection\" />
+  </ItemGroup>
+
 </Project>
